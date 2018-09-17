@@ -10,4 +10,5 @@
 chrome 套件下載處：
 https://chrome.google.com/webstore/detail/odeilkajklkkkpinpbahehibpobhfjim
 
-
+---
+<img src="screenshot.png">

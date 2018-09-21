@@ -10,5 +10,10 @@
 chrome 套件下載處：
 https://chrome.google.com/webstore/detail/odeilkajklkkkpinpbahehibpobhfjim
 
+[![Chrome Web Store](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/odeilkajklkkkpinpbahehibpobhfjim)
+[![Firefox Add-ons](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png)](https://addons.mozilla.org/zh-TW/firefox/addon/可疑新聞偵測器/)
+
+
+
 ---
 <img src="screenshot.png">
